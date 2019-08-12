@@ -1,0 +1,3 @@
+Right Click on project folder
+Run as--> Maven Install
+go to ..projectName/target/.. folder to see generated file
